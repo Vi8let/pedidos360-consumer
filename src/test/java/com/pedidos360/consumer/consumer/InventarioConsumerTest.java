@@ -95,3 +95,4 @@ class InventarioConsumerTest {
         verify(channel, never()).basicAck(anyLong(), anyBoolean());
     }
 }
+

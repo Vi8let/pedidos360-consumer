@@ -50,3 +50,4 @@ public final class RabbitNames {
     public static final String RK_DLQ_ELIMINACIONES = "dlq.auditoria.eliminaciones";
     public static final String RK_DLQ_SEGURIDAD = "dlq.seguridad.alertas";
 }
+

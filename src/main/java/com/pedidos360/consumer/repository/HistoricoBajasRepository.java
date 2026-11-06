@@ -14,3 +14,4 @@ public interface HistoricoBajasRepository extends JpaRepository<HistoricoBajas, 
      */
     boolean existsByEventoId(UUID eventoId);
 }
+

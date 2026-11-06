@@ -14,3 +14,4 @@ public interface AuditoriaSeguridadRepository extends JpaRepository<AuditoriaSeg
      */
     boolean existsByEventoId(UUID eventoId);
 }
+

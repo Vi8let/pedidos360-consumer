@@ -132,3 +132,4 @@ public class HistoricoBajas {
         this.procesadoEn = procesadoEn;
     }
 }
+

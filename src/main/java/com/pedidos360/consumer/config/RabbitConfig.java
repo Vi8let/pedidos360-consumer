@@ -153,3 +153,4 @@ public class RabbitConfig {
         return factory;
     }
 }
+

@@ -187,3 +187,4 @@ public class AuditoriaInventario {
         this.procesadoEn = procesadoEn;
     }
 }
+

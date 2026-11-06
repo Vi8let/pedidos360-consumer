@@ -14,3 +14,4 @@ public interface AuditoriaInventarioRepository extends JpaRepository<AuditoriaIn
      */
     boolean existsByEventoId(UUID eventoId);
 }
+

@@ -90,3 +90,4 @@ class EliminacionesConsumerTest {
         verify(channel, never()).basicAck(anyLong(), anyBoolean());
     }
 }
+

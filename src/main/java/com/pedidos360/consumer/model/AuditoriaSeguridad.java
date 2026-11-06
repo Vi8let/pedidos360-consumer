@@ -143,3 +143,4 @@ public class AuditoriaSeguridad {
         this.procesadoEn = procesadoEn;
     }
 }
+

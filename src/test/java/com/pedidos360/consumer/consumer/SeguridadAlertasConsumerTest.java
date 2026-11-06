@@ -91,3 +91,4 @@ class SeguridadAlertasConsumerTest {
         verify(channel, never()).basicAck(anyLong(), anyBoolean());
     }
 }
+
